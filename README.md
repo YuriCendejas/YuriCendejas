@@ -16,7 +16,7 @@ OR
 Email 💌: <br> YuriCendejas@outlook.com.</p>
 <h2>Fun Fact about Me</h2>
 <p>I worked as Dental front desk for almost 2 years from 2019 up until 2021,
-  when I became a Certified Dental Assistant.
+  when I became a Certified Dental Assistant and been working in dental still to this day.
   so if you wanna talk about teeth, lets talk ! 🦷🦷 </p>
 </body>
 
