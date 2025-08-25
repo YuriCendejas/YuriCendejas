@@ -8,10 +8,6 @@
 <p>💞️ I’m looking to collaborate on a funny mobile app game.</p>
 <h2>How to Reach Me?!</h2> 
 <label> Preferred Method: </label> 
-<p>By Phone📞:
-<br> 772-205-7640 
-<br>
-OR
 <br>
 Email 💌: <br> YuriCendejas@outlook.com.</p>
 <h2>Fun Fact about Me</h2>
