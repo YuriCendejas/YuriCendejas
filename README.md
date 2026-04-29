@@ -3,16 +3,16 @@
 <head> ✨✨Welcome to my Github ✨✨</head>
 <body>
 <h2>About me: </h2>
-<p>👀 My interests are in: Full Stack for , Mobile apps , Retail stores and Social media platforms.</p>
-<p> 🌱 Im currently learning all the basic programing languages <br> as a Software engineer student at USF Spring Board Boot Camp. </p>
-<p>💞️ I’m looking to collaborate on a funny mobile app game.</p>
+<p>👀 My interests are in: building with Js with mern stack. 
+<p> 🌱 Recived a certificate for Software engineer student at USF Spring Board Boot Camp. </p>
+
 <h2>How to Reach Me?!</h2> 
 <label> Preferred Method: </label> 
 <br>
-Email 💌: <br> YuriCendejas@outlook.com.</p>
+<h2>Email 💌: </h2> <br> <p>YuriCendejas@outlook.com</p>
+<h2>Linkdin :</h2> <p> YuriCendejas@outlook.com</p>
 <h2>Fun Fact about Me</h2>
-<p>I worked as Dental front desk for almost 2 years from 2019 up until 2021,
-  when I became a Certified Dental Assistant and been working in dental still to this day.
+<p>I worked in dental for over 7+ years,
   so if you wanna talk about teeth, lets talk ! 🦷🦷 </p>
 </body>
 
