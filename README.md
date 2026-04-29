@@ -7,10 +7,10 @@
 <p> 🌱 Recived a certificate for Software engineer student at USF Spring Board Boot Camp. </p>
 
 <h2>How to Reach Me?!</h2> 
-<label> Preferred Method: </label> 
-<br>
+
 <h2>Email 💌: </h2> <br> <p>YuriCendejas@outlook.com</p>
-<h2>Linkdin :</h2> <p> YuriCendejas@outlook.com</p>
+<h2>Linkedin 💌:</h2> <p> YuriCendejas@outlook.com</p>
+<br>
 <h2>Fun Fact about Me</h2>
 <p>I worked in dental for over 7+ years,
   so if you wanna talk about teeth, lets talk ! 🦷🦷 </p>
