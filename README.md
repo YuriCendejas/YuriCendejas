@@ -3,7 +3,8 @@
 <head> ✨✨Welcome to my Github ✨✨</head>
 <body>
 <h2>About me: </h2>
-<p>👀 My interests are in: building with Js with mern stack. 
+<p>👀 My interests are in: building with Js with mern stack ,
+  and backend js with node.js and express.js using postman. 
 <p> 🌱 Recived a certificate for Software engineer student at USF Spring Board Boot Camp. </p>
 
 <h2>How to Reach Me?!</h2> 
@@ -12,7 +13,7 @@
 <h2>Linkedin 💌:</h2> <p> YuriCendejas@outlook.com</p>
 <br>
 <h2>Fun Fact about Me</h2>
-<p>I worked in dental for over 7+ years,
+<p>I worked in dental for over 8 years,
   so if you wanna talk about teeth, lets talk ! 🦷🦷 </p>
 </body>
 
