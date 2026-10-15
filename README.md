@@ -4,7 +4,7 @@
 <body>
 <h2>About me: </h2>
 <p>👀 My interests are in: building with Js with mern stack ,
-  and backend js with node.js and express.js using postman. 
+  and backend js with node.js and express.js using postman and MongoDb as my database. 
 <p> 🌱 Recived a certificate for Software engineer student at USF Spring Board Boot Camp. </p>
 
 <h2>How to Reach Me?!</h2> 
