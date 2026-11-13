@@ -13,7 +13,7 @@
 <h2>Linkedin 💌:</h2> <p> YuriCendejas@outlook.com</p>
 <br>
 <h2>Fun Fact about Me</h2>
-<p>I worked in dental for over 8 years,
+<p>I worked in dental for over 7+ years,
   so if you wanna talk about teeth, lets talk ! 🦷🦷 </p>
 </body>
 
